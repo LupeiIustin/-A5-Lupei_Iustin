@@ -1,0 +1,5 @@
+﻿  NumberList.cpp
+C:\Users\User\Desktop\-A5-Lupei_Iustin\problema1\problema1\NumberList.cpp(21,10): warning C4101: 'can_cont': unreferenced local variable
+  Source.cpp
+  Generating Code...
+  problema1.vcxproj -> C:\Users\User\Desktop\-A5-Lupei_Iustin\problema1\Debug\problema1.exe
