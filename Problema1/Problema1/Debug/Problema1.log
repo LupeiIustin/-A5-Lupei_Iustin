@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\User\Desktop\-A5-Lupei_Iustin\Problema1\Problema1\main.cpp(8,10): warning C4101: 'm': unreferenced local variable
+  Math.cpp
+C:\Users\User\Desktop\-A5-Lupei_Iustin\Problema1\Problema1\Math.cpp(15,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\-A5-Lupei_Iustin\Problema1\Problema1\Math.cpp(20,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\-A5-Lupei_Iustin\Problema1\Problema1\Math.cpp(35,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\-A5-Lupei_Iustin\Problema1\Problema1\Math.cpp(40,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Problema1.vcxproj -> C:\Users\User\Desktop\-A5-Lupei_Iustin\Problema1\Debug\Problema1.exe
